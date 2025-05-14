@@ -16,3 +16,4 @@ __pycache__/
 
 # Ignore Jupyter hidden files
 *.nbconvert.ipynb
+.gitignore
