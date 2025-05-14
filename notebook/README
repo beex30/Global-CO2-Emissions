@@ -1,0 +1,13 @@
+# 🌍 Global CO₂ Emissions Data Analysis
+
+In this project, we analyze historical CO₂ emissions data by country from 1750 to 2021.
+
+**Dataset Source:** [Our World in Data – CO₂ Data](https://github.com/owid/co2-data)
+
+We'll explore:
+- Global emission trends
+- Top contributing countries
+- Emissions per capita
+- Correlation with GDP and population
+
+Let's begin by importing the dataset and understanding its structure.
